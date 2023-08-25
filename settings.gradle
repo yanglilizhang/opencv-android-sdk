@@ -15,3 +15,4 @@
 
 rootProject.name = "opencv-android-sdk"
 include ':app'
+include ':opencv470'
