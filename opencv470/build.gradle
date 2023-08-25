@@ -1,7 +1,7 @@
 plugins {
     id 'com.android.library'
     id 'org.jetbrains.kotlin.android'
-    // TODO 引入 maven 插件
+    // 引入 maven 插件
     id 'maven-publish'
 }
 
@@ -35,7 +35,7 @@ afterEvaluate {
                 groupId = "com.github.yanglilizhang"
 //                artifactId = "opencv-android-sdk"
                 artifactId = "opencv"
-                version = "1.0.5"
+                version = "1.0.9"
             }
         }
     }

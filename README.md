@@ -1,7 +1,7 @@
 # opencv-android-sdk
 # OpenCV Android SDK [![](https://jitpack.io/v/steve1316/opencv-android-sdk.svg)](https://jitpack.io/#steve1316/opencv-android-sdk)
+[![](https://jitpack.io/v/yanglilizhang/opencv-android-sdk.svg)](https://jitpack.io/#yanglilizhang/opencv-android-sdk)
 This repo serves two purposes. One, a place to host the OpenCV Android SDK so that I would not need to download, move, rename, etc everytime I need to setup the OpenCV module for future Android projects. All that is required to access OpenCV is:
-
 ```gradle
 // Project-level build.gradle
 allprojects {
