@@ -39,8 +39,9 @@ afterEvaluate {
 //                from components.release
 
                 groupId = "com.github.yanglilizhang"
-                artifactId = "opencv-android-sdk"
-                version = "1.0.0"
+//                artifactId = "opencv-android-sdk"
+                artifactId = "opencv470"
+                version = "1.0.5"
             }
         }
     }
